@@ -1,0 +1,22 @@
+.cn1 {
+color: black;
+font-size: 17px;
+background-color: #ca92ff;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#id1 {
+    color: rgb(8, 8, 24);
+    font-size: 2rem;
+}
+.cn2 {
+    background-color: rgb(117, 173, 190);
+    color:black;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#id2 {
+    color: black;
+    background-color: rgb(132, 249, 155);
+    font-size: 17px;
+    font-weight: bold;
+}

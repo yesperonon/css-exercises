@@ -1,0 +1,12 @@
+.e1, .e2 {
+font-size: 27px;
+font-family: Times 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+.e1{
+background-color: black;
+color: white;
+font-weight: bold;
+}
+.e2{
+    background-color: rgb(255, 255, 122);
+}
